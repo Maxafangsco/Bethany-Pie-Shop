@@ -1,2 +1,1 @@
-# Bethany-Pie-Shop
-Bethany's Pie Shop website using HTML, CSS and Javascript  
+# Building Websites With HTML, CSS, and JavaScript: Getting Started
